@@ -8,4 +8,4 @@ Como heurística, o critério é a menor distância até Bucareste em linha reta
 
 # Como executar
 
-Simplesmente execute o arquvio "processamento.py".
+Simplesmente execute o arquivo "processamento.py".
